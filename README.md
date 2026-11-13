@@ -2,6 +2,10 @@
 
 A responsive, installable PWA built with HTML, CSS and vanilla JavaScript, with a Vercel serverless backend and the OpenAI Responses API.
 
+## What's new in V2.1
+- Added branded Jem AI app icons (favicon, iOS home-screen icon and Android/PWA 192px/512px icons)
+- Updated web app manifest and service-worker cache for icon installation
+
 ## What's new in V2.0
 - Redesigned responsive interface with dark and light themes
 - General-purpose AI assistant (no longer restricted to Islamic topics)
