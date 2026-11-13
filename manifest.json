@@ -1,0 +1,10 @@
+{
+  "name": "Jem AI — Your AI Workspace",
+  "short_name": "Jem AI",
+  "description": "An all-in-one AI assistant for learning, writing, coding and creativity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0d18",
+  "theme_color": "#0b0d18",
+  "icons": []
+}
