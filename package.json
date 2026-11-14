@@ -1,9 +1,0 @@
-{
-  "name": "jem-ai",
-  "version": "2.2.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
