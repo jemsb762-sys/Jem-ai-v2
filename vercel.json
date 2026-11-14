@@ -1,0 +1,2 @@
+find . -name "route.*" | grep -v node_modules
+find . -path ./node_modules -prune -o -name "*.ts" -print | grep api
